@@ -1,0 +1,6 @@
+Logistic Regression F1 Score: 0.5995664971902595
+Decision Tree F1 Score: 0.5721475063580326
+Random Forest F1 Score: 0.7166898116792428
+
+Best Model: Random Forest
+Best F1 Score: 0.7166898116792428
